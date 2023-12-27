@@ -10,4 +10,4 @@ void main() {
   ));
 }
 
-//modelleme
+//model
